@@ -1,7 +1,9 @@
-# SFDX  App
+# SFDX  Deployment Issue.
+In this repo, we have created a sample to reproduce the DX deployment issue. 
 
-## Dev, Build and Test
-
+## Prerequisites 
+1.Salesfore CLI 
+2.Dev hub enabled org
 
 ## Resources
 
